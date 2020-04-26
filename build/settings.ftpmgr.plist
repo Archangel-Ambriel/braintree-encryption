@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ContinuePlayback</key>
+	<true/>
+	<key>ConvertHeicToJpg</key>
+	<true/>
+	<key>DownloadMoviePoster</key>
+	<true/>
+	<key>ExportConnectionPassword</key>
+	<true/>
+	<key>FTPManagerSettings</key>
+	<true/>
+	<key>Language</key>
+	<string>sv</string>
+	<key>MaxCacheSize</key>
+	<integer>2048</integer>
+	<key>ShowHiddenFiles</key>
+	<true/>
+	<key>VersionUUID</key>
+	<string>AD1DAA1E-422D-4943-B39B-93BB8F6D043D</string>
+	<key>VideoPlaybackInBackground</key>
+	<true/>
+</dict>
+</plist>
