@@ -1,0 +1,28 @@
+From 9816494f9fa8f6ce42e28422ae4025253c943ecf Mon Sep 17 00:00:00 2001
+From: Ambriel Skoeld <ambriel.archangel@icloud.com>
+Date: Sun, 31 May 2020 00:56:48 +0200
+Subject: [PATCH] gitignore AppDelegate- json html or other language
+
+---
+ Crime and laws - Police or other organisations.php | 8 ++++++++
+ 1 file changed, 8 insertions(+)
+ create mode 100644 Crime and laws - Police or other organisations.php
+
+diff --git a/Crime and laws - Police or other organisations.php b/Crime and laws - Police or other organisations.php
+new file mode 100644
+index 0000000..6251820
+--- /dev/null
++++ b/Crime and laws - Police or other organisations.php
+@@ -0,0 +1,8 @@
++Jaha...! Då var även den saken fastställd! Polisen och dvs. alla MÄN som arbetar inom det så kallade rättsväsen som har funnits fram tills nu! Kommer alltså att försvinna helt och just mannen kommer att bli gladiatorerna den nya Världen kommer att få se försöka strida sig fri ifrån ett antal motståndare på cirkus! 
++
++”Dom fortsätter att både ljuga och stjäla och därför väljer dom alltså att tredje gången gillt (två tidigare gula kort och sedan helt förlåtna! Och då stjäl dom horungarna istället min FIDO nyckel 🔑 och ett USB MINNE och återigen blir det alltså bara så att alla blir nu alltså av med sina fruar, flickvänner eller KK! Och  det blir bara kvinnorna som automatiskt går över till att bli militärt försvar istället...”
++
++
++Well ...! Then that thing was also determined! The police and ie all MEN who work in the so-called legal system that has existed until now! So will completely disappear and the man will become the gladiators the new World will see to try to fight free from a number of opponents on the circus!
++
++"They continue to both lie and steal and therefore they choose that the third time liked (two previously yellow cards and then completely forgiven! And then they steal the horns instead my FIDO key 🔑 and a USB MEMORY and again it just so everyone So now get rid of their wives, girlfriends or K.K! ”Only fucking friend” And it will only be the women who automatically switch to military defense instead ... "
+\ No newline at end of file
+--
+Working Copy 4.2.4
+

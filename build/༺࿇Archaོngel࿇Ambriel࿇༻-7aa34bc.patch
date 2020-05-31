@@ -1,0 +1,52 @@
+From 7aa34bcc16d01c5544c455d3f6ab965f9064b803 Mon Sep 17 00:00:00 2001
+From: Archangel-Ambriel <63177182+Archangel-Ambriel@users.noreply.github.com>
+Date: Sun, 5 Apr 2020 05:06:57 +0200
+Subject: [PATCH] ༺࿇Archaོngel࿇Ambriel࿇༻
+
+---
+ .github/workflows/blank.yml | 33 +++++++++++++++++++++++++++++++++
+ 1 file changed, 33 insertions(+)
+ create mode 100644 .github/workflows/blank.yml
+
+diff --git a/.github/workflows/blank.yml b/.github/workflows/blank.yml
+new file mode 100644
+index 0000000..d6783e2
+--- /dev/null
++++ b/.github/workflows/blank.yml
+@@ -0,0 +1,33 @@
++# This is a basic workflow to help you get started with Actions
++
++name: CI
++
++# Controls when the action will run. Triggers the workflow on push or pull request
++# events but only for the master branch
++on:
++  push:
++    branches: [ master ]
++  pull_request:
++    branches: [ master ]
++
++# A workflow run is made up of one or more jobs that can run sequentially or in parallel
++jobs:
++  # This workflow contains a single job called "build"
++  build:
++    # The type of runner that the job will run on
++    runs-on: ubuntu-latest
++
++    # Steps represent a sequence of tasks that will be executed as part of the job
++    steps:
++    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
++    - uses: actions/checkout@v2
++
++    # Runs a single command using the runners shell
++    - name: Run a one-line script
++      run: echo Hello, world!
++
++    # Runs a set of commands using the runners shell
++    - name: Run a multi-line script
++      run: |
++        echo Add other actions to build,
++        echo test, and deploy your project.
+--
+Working Copy 4.1.7
+
